@@ -1,0 +1,12 @@
+﻿  complier_original.cpp
+e:\code library\visual_studio\compiler_model\compiler_model\complier_original.cpp(102): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\compiler_model\complier_original.cpp(104): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\compiler_model\complier_original.cpp(400): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\compiler_model\complier_original.cpp(406): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\compiler_model\complier_original.cpp(410): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\compiler_model\complier_original.cpp(415): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\compiler_model\complier_original.cpp(424): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\compiler_model\complier_original.cpp(428): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\compiler_model\complier_original.cpp(436): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\compiler_model\complier_original.cpp(639): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Compiler_model.vcxproj -> E:\Code library\visual_studio\Compiler_model\x64\Debug\Compiler_model.exe

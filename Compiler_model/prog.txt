@@ -1,0 +1,25 @@
+program
+var p, n,m,n1, m1,result: int;
+begin
+read(m); read(n);
+if m < n then
+begin
+n1 := m;
+m1 := n
+end
+else begin
+n1 := n;
+m1 := m
+end;
+
+while n1 > 0 do begin
+while m1 >= n1 do begin
+m1 := m1 - n1
+end;
+p := m1;
+m1 := n1;
+n1 := p
+end;
+result := m1;
+write(result)
+end@
