@@ -1,0 +1,8 @@
+program
+var p,m,n: int;
+begin
+read(m); read(n);;;;;;;;;;;;;;;;;;;;;;;
+p:=0;
+if m >n then else p:=2;
+write(p)
+end@
