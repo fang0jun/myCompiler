@@ -1,0 +1,7 @@
+program
+var charA, charB : char;
+begin 
+    charA := 'x';
+    read(charB);
+if charB>charA then write(charB) else write (charA)
+end@

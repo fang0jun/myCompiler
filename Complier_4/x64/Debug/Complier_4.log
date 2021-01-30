@@ -1,0 +1,20 @@
+﻿  compiler_4.cpp
+e:\code library\visual_studio\compiler_model\complier_4\compiler_4.cpp(101): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\complier_4\compiler_4.cpp(103): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\complier_4\compiler_4.cpp(410): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\complier_4\compiler_4.cpp(418): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\complier_4\compiler_4.cpp(421): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\complier_4\compiler_4.cpp(425): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\complier_4\compiler_4.cpp(430): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\complier_4\compiler_4.cpp(434): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\complier_4\compiler_4.cpp(437): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\complier_4\compiler_4.cpp(441): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\complier_4\compiler_4.cpp(442): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\complier_4\compiler_4.cpp(450): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\complier_4\compiler_4.cpp(454): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\complier_4\compiler_4.cpp(462): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\complier_4\compiler_4.cpp(469): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\complier_4\compiler_4.cpp(476): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\complier_4\compiler_4.cpp(481): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\code library\visual_studio\compiler_model\complier_4\compiler_4.cpp(686): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Complier_4.vcxproj -> E:\Code library\visual_studio\Compiler_model\x64\Debug\Complier_4.exe
