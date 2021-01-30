@@ -1,0 +1,13 @@
+program
+var a,N:int;
+begin
+    a := 0;
+    read(N);
+    if(N = 0) then write(N)
+    else repeat
+        begin
+            a:=a+1
+        end
+        until  a=N;
+    write(N)
+end@
